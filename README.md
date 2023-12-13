@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sehribanceliker
 - 👀 I’m interested in Python, SQL, Data Science and Machine Learning!
-- 🌱 I’m currently purseing my Master degree in Computer Science.
-- 📫 You can reach me via e-mail or https://www.linkedin.com/in/sehriban-celiker/
+- 🌱 I’m currently pursuing my master's degree in Computer Science.
+- 📫 You can reach me via e-mail sehribanceliker1@gmail.com or https://www.linkedin.com/in/sehriban-celiker/
 
 <!---
 sehribanceliker/sehribanceliker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
