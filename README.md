@@ -16,8 +16,8 @@ Data Visualization & PMO	     NumPy, Pandas, Keras	VS Code, TensorFlow
 
 - **Languages:** Python, SQL, 
 - **Specializations:** Data Science, Machine Learning
+  
 - **Education:**
-- 
 MONROE COLLEGE, KING GRADUATE SCHOOL, Bronx, NY, US
 MASTER OF SCIENCE (MS) IN COMPUTER SCIENCE, 2024 (EXPECTED)
 
@@ -25,13 +25,12 @@ ISTANBUL UNIVERSITY, Istanbul, Turkey
 BACHELOR OF ARTS (BS), SOCIOLOGY
 
 - **Professional Experince:**
-
-ARYA SOLAR ENERGY, Ankara, TURKEY 	2019 – 2022
+ARYA SOLAR ENERGY, Ankara, TURKEY 
 BUSINESS & DATA ANALYST
 
-EXCHANGE STUDENT, Aupair-Care Intrax Inc. New York, NY  	2018 – 2019
+EXCHANGE STUDENT, Aupair-Care Intrax Inc. New York, NY  
 
-SZUTEST, Istanbul, TURKEY 	2016 – 2018
+SZUTEST, Istanbul, TURKEY 
 PLANNING ANALYST
 
 
