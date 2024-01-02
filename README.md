@@ -8,9 +8,33 @@ I am passionate about leveraging technology to solve complex problems and extrac
 
 ## Skills
 
+Data Strategy and Modelling	     Matplotlib and Seaborn	Python, SQL, Oracle SQL
+Data Governance & Analytics	     Jupyter Notebooks, Scikit-Learn	Git, GitHub, Tableau
+Data Visualization & PMO	     NumPy, Pandas, Keras	VS Code, TensorFlow
+		
+
+
 - **Languages:** Python, SQL, 
 - **Specializations:** Data Science, Machine Learning
-- **Education:** Master's in Computer Science
+- **Education:**
+- 
+MONROE COLLEGE, KING GRADUATE SCHOOL, Bronx, NY, US
+MASTER OF SCIENCE (MS) IN COMPUTER SCIENCE, 2024 (EXPECTED)
+
+ISTANBUL UNIVERSITY, Istanbul, Turkey
+BACHELOR OF ARTS (BS), SOCIOLOGY
+
+- **Professional Experince:**
+
+ARYA SOLAR ENERGY, Ankara, TURKEY 	2019 – 2022
+BUSINESS & DATA ANALYST
+
+EXCHANGE STUDENT, Aupair-Care Intrax Inc. New York, NY  	2018 – 2019
+
+SZUTEST, Istanbul, TURKEY 	2016 – 2018
+PLANNING ANALYST
+
+
 
 ## Projects
 
