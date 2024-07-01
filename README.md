@@ -54,7 +54,7 @@ Feel free to reach out if you have any questions, want to collaborate, or just h
 
 - **Email:** sehribanceliker1@gmail.com 
 - **LinkedIn:** [Sehriban Celiker](https://www.linkedin.com/in/sehriban-celiker/)
-- 
+  
 
 ## License
 
