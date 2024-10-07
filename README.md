@@ -36,7 +36,7 @@ Bachelor of Arts (BA) in Sociology (2015)
 I’m always open to new opportunities, collaborations, and discussions about technology and data. If you’d like to get in touch or explore ways to work together, here’s how you can reach me:
 
 ## Email: sehribanceliker1@gmail.com
-## LinkedIn: Sehriban Celiker
+## LinkedIn: www.linkedin.com/in/sehriban-celiker 
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
 
