@@ -1,34 +1,42 @@
-# Sehriban Celiker's Portfolio
+## Sehriban Celiker's Portfolio
 
-Welcome to my GitHub repository! It's  Sehriban Celiker, who is Data Scientist & Data Analyst.
-
+## Welcome!
+Hello, and welcome to my GitHub repository! I’m Sehriban Celiker, a passionate Data Scientist & Data Analyst with a strong foundation in data strategy, modeling, and visualization. My work focuses on transforming complex datasets into actionable insights and supporting data-driven decision-making processes.
 
 ## Skills
+I bring a wide array of skills and tools to the table, allowing me to approach problems from multiple angles and deliver impactful solutions:
 
-Data Strategy and Modelling	     Matplotlib and Seaborn	        Python, SQL, Oracle SQL
-Data Governance & Analytics	     Jupyter Notebooks, Scikit-Learn	Git, GitHub, Tableau
-Data Visualization & PMO	     NumPy, Pandas, Keras	        VS Code, TensorFlow
-		  
+Data Strategy & Modeling: Designing data strategies that align with business goals.
+
+Matplotlib & Seaborn: Creating visually compelling and informative data visualizations.
+
+Python, SQL, Oracle SQL: Expertise in programming and querying relational databases.
+
+Data Governance & Analytics: Ensuring data integrity and compliance with industry standards.
+
+Jupyter Notebooks & Scikit-Learn: Proficient in machine learning and data analysis.
+
+Git & GitHub: Version control and collaboration with developers and data scientists.
+
+Tableau: Crafting interactive dashboards to visualize data effectively.
+
+NumPy & Pandas: Advanced data manipulation and analysis.
+
+Keras & TensorFlow: Building deep learning models for predictive analysis.
+
+Visual Studio Code: Versatile code editor for efficient development.
+
 ## Education
-  
-MONROE UNIVERSITY, KING GRADUATE SCHOOL, Bronx, NY, US
-MASTER OF SCIENCE (MS) IN COMPUTER SCIENCE 
-
-ISTANBUL UNIVERSITY, Istanbul, Turkey
-BACHELOR OF ARTS (BS), SOCIOLOGY
-
+Monroe College, King Graduate School – Bronx, NY, USA
+Master of Science (MS) in Computer Science (Expected August 2024)
+Istanbul University – Istanbul, Turkey
+Bachelor of Arts (BA) in Sociology (2015)
 
 ## How to Reach Me
+I’m always open to new opportunities, collaborations, and discussions about technology and data. If you’d like to get in touch or explore ways to work together, here’s how you can reach me:
 
-Feel free to reach out if you have any questions, want to collaborate, or just have a chat about technology and data!
+## Email: sehribanceliker1@gmail.com
+## LinkedIn: Sehriban Celiker
 
-- **Email:** sehribanceliker1@gmail.com 
-- **LinkedIn:** [Sehriban Celiker](https://www.linkedin.com/in/sehriban-celiker/)
+Thank you for visiting my portfolio. I look forward to connecting with you!
 
-  
-## License
-
-<!---
-sehribanceliker/sehribanceliker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
