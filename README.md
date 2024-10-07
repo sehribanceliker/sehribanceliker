@@ -10,7 +10,7 @@ Data Visualization & PMO	     NumPy, Pandas, Keras	        VS Code, TensorFlow
 		  
 ## Education
   
-MONROE University , KING GRADUATE SCHOOL, Bronx, NY, US
+MONROE UNIVERSITY, KING GRADUATE SCHOOL, Bronx, NY, US
 MASTER OF SCIENCE (MS) IN COMPUTER SCIENCE,  August 2024 
 
 ISTANBUL UNIVERSITY, Istanbul, Turkey
