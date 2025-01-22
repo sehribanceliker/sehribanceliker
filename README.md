@@ -30,7 +30,7 @@ Visual Studio Code: Versatile code editor for efficient development.
 Monroe College, King Graduate School – Bronx, NY, USA
 Master of Science (MS) in Computer Science (Expected August 2024)
 Istanbul University – Istanbul, Turkey
-Bachelor of Arts (BA) in Sociology (2015)
+Bachelor of Arts (BA) in Sociology
 
 ## How to Reach Me
 I’m always open to new opportunities, collaborations, and discussions about technology and data. If you’d like to get in touch or explore ways to work together, here’s how you can reach me:
