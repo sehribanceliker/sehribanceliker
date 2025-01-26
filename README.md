@@ -10,7 +10,7 @@ Data Strategy & Modeling: Designing data strategies that align with business goa
 
 Matplotlib & Seaborn: Creating visually compelling and informative data visualizations.
 
-Python, SQL, Oracle SQL: Expertise in programming and querying relational databases.
+Python, SQL:  programming and querying relational databases.
 
 Data Governance & Analytics: Ensuring data integrity and compliance with industry standards.
 
