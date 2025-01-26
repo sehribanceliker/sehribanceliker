@@ -1,7 +1,7 @@
 ## Sehriban Celiker's Portfolio
 
 ## Welcome!
-Hello, and welcome to my GitHub repository! I’m Sehriban Celiker, a passionate Data Scientist & Data Analyst with a strong foundation in data strategy, modeling, and visualization. My work focuses on transforming complex datasets into actionable insights and supporting data-driven decision-making processes.
+Hello, and welcome to my GitHub repository! I’m Sehriban Celiker, a passionate Data Scientist & Data Analyst with experience in data strategy, modeling, and visualization. My work focuses on transforming complex datasets into actionable insights and supporting data-driven decision-making processes.
 
 ## Skills
 I bring a wide array of skills and tools to the table, allowing me to approach problems from multiple angles and deliver impactful solutions:
